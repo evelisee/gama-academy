@@ -7,7 +7,7 @@ Curso de Angular junto da Gama Academy e Accenture
 
 ### Exercícios
 
-[Dia 1](./dia-1)
+[Dia 1](./dia-1.html)
 [Dia 2](./dia-2)
 [Dia 3](./dia-3)
 [Dia 4](./dia-4)
