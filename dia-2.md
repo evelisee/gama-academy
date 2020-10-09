@@ -26,21 +26,8 @@
 ```
 ## Formulários 
 
- 1. No formulário criado dentro do AppComponent, utilize o `ngModel` e mostre os valores na view conforme o usuário digitar no campo de email.
- 2.  Exiba uma mensagem de erro caso o campo não esteja preenchido
-
-## Roteamento
-
- 1. Mova o formulário criado dentro do AppComponent para um novo component dentro da pasta pages `(src/app/pages/login/login.component.ts)`
- 2. Mova a listagem de emails criada anteriormente para um novo component dentro da pasta pages chamada Caixa de Entrada
-`(src/app/pages/caixa-de-entrada/caixa-de-entrada.component.ts)`
- 
- 3. Crie o arquivo de rotas
- 4. Aponte as respectivas rotas para os componentes
->  ex.: 
->
->  /login -> LoginComponent
->
->  /inbox -> CaixaDeEntradaComponent
+ 1. Importe o `FormsModule` na aplicação
+ 2. No formulário criado dentro do AppComponent, utilize o `ngModel` e mostre os valores na view conforme o usuário digitar no campo de email.
+ 3. Crie uma referência de template com o nome que preferir e printe no html o value do input (acessando via referência)
 
   
