@@ -27,9 +27,9 @@
 
 2) No component raiz, crie um botão customizado com os estilos do material
   ```html
-    <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
-      <i class="material-icons">add</i>
-    </button>
+  <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
+    <i class="material-icons">add</i>
+  </button>
   ```
 
 3) Ainda no component raiz da aplicação, crie um formulário básico
@@ -43,7 +43,7 @@
 
 ## Interpolação
 
-1) Defina um valor na classe AppComponent que seja uma `string` qualquer e exiba seu valor na página 
+1) Defina um valor na classe `AppComponent` que seja uma `string` qualquer e exiba seu valor na página 
 
 2) Mostre o resultado da soma de dois números na página
 
