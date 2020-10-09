@@ -1,4 +1,4 @@
-#Dia 2
+# Dia 2
 
 ## Loop no template
 1) Usando como base o objeto abaixo, crie um loop no component AppComponent
