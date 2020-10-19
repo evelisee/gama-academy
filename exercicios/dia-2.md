@@ -1,20 +1,10 @@
 
+# Dia 2
 
-# Dia 1
+## Ambiente
 
-## Configuração de ambiente
-
- 1. Instale globalmente o node
- 2.  Verifique a versão que foi instalada via CLI
- 3. Instale globalmente a CLI do Angular 
- 4. Verifique a versão que foi instalada via CLI 
- 5. Via CLI do angular, inicie um projeto novo
- 6.  Rode a aplicação no servidor local
-
-## Componentizando
-
- 1. Crie um component através da CLI 
- 2. Mostre o component criado na página
+ 1. Via CLI do angular, inicie um projeto novo
+ 2. Rode a aplicação no servidor local
 
 ## Usando CSS
 
@@ -38,9 +28,11 @@
  1. Defina um valor na classe `AppComponent` que seja uma `string` qualquer e exiba seu valor na página 
  2. Mostre o resultado da soma de dois números na página
 
+ ## Property binding
+
+ 1. Deixe o botão do formulário antério desabilitado de acordo com uma propriedade da classe com valor false.
+
 ## Utilizando o data binding
 
  1. Faça o botão de entrar exibir qualquer texto no console do navegador ao ser clicado
- 2. Faça o input de email desaparecer de acordo com uma variável setada para true na classe
- 3. Adicione uma classe **dinamicamente** no botão entrar, onde sua fonte fique com 16px ao iniciar a página
-
+ 2. Mostr um console quando valores forem inseridos no campo email do formulário.
