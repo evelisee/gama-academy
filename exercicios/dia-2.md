@@ -28,7 +28,7 @@
  1. Defina um valor na classe `AppComponent` que seja uma `string` qualquer e exiba seu valor na página 
  2. Mostre o resultado da soma de dois números na página
 
- ## Property binding
+## Property binding
 
  1. Deixe o botão do formulário antério desabilitado de acordo com uma propriedade da classe com valor false.
 

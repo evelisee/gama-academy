@@ -3,7 +3,7 @@
 Curso de Angular junto da Gama Academy e Accenture
 
 ### Conteúdo
-O conteúdo abordado durante todo o curso será esse [aqui](./conteudo.html).
+O conteúdo abordado durante todo o curso será esse [aqui](./conteudo).
 
 Os [Slides]() ajudarão no processo de execução dos exercícios e pode ficar como colinha pessoal.
 
