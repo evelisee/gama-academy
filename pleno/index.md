@@ -1,5 +1,5 @@
 
-### Conteúdo
+# Conteúdo
 
 ## Dia 1 (4h)
 
@@ -68,11 +68,11 @@
  2. Plantão de dúvidas
 
 
-### Material
+# Material
 
 Os [Slides](./angular.pdf) ajudarão no processo de execução dos exercícios e pode ficar como colinha pessoal.
 
-### Exercícios
+# Exercícios
 
 O ideal é separar 15 minutos para execução individual de cada um e logo sem seguida realizaremos a correção e solução de cada um. Não se preocupe, qualquer dúvida é só chamar!
 
