@@ -76,10 +76,10 @@ Os [Slides](./angular.pdf) ajudarão no processo de execução dos exercícios e
 
 O ideal é separar 15 minutos para execução individual de cada um e logo sem seguida realizaremos a correção e solução de cada um. Não se preocupe, qualquer dúvida é só chamar!
 
-- [Dia 1](./pleno/exercicios/dia-1.md)
-- [Dia 2](./pleno/exercicios/dia-2.md)
-- [Dia 3](./pleno/exercicios/dia-3.md)
-- [Dia 4](./pleno/exercicios/dia-4.md)
-- [Dia 5](./pleno/exercicios/dia-5.md)
-- [Dia 6](./pleno/exercicios/dia-6.md)
-- [Dia 7](./pleno/exercicios/dia-7.md)
+- [Dia 1](./exercicios/dia-1.md)
+- [Dia 2](./exercicios/dia-2.md)
+- [Dia 3](./exercicios/dia-3.md)
+- [Dia 4](./exercicios/dia-4.md)
+- [Dia 5](./exercicios/dia-5.md)
+- [Dia 6](./exercicios/dia-6.md)
+- [Dia 7](./exercicios/dia-7.md)
