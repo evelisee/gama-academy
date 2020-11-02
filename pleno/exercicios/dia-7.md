@@ -36,4 +36,11 @@
 ```
 
 3. Na página de cadastro, faça com que os valores inseridos no formulário apareçam no card de Perfil (no component card-personagem)
+
+## Output
+
 4. Faça com que o botão de atualizar no component de card-personagem coloque os dados no formulário, para que a pessoa possa editar os valores
+
+## Broadcast
+
+1. Faça com que o título da página (no component header.component.ts) mude toda vez que a aplicação mudar de rota

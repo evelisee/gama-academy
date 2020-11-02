@@ -83,3 +83,5 @@ O ideal é separar 15 minutos para execução individual de cada um e logo sem s
 - [Dia 5](./exercicios/dia-5.md)
 - [Dia 6](./exercicios/dia-6.md)
 - [Dia 7](./exercicios/dia-7.md)
+- [Dia 8](./exercicios/dia-8.md)
+- [Dia 9](./exercicios/dia-9.md)
