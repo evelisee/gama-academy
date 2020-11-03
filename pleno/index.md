@@ -47,9 +47,9 @@
 
 ## Dia 7 (4h)
 
-1. Passando dados entre components
-    1.1 Input
-    1.2 Output
+ 1. Passando dados entre components (Input)
+ 2. Passando dados entre components (Output)
+ 3. Broadcat
 
 ## Dia 8 (8h)
 
