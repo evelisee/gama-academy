@@ -1,10 +1,4 @@
-
 # Dia 2
-
-## Ambiente
-
- 1. Via CLI do angular, inicie um projeto novo
- 2. Rode a aplicação no servidor local
 
 ## Usando CSS
 
