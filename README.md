@@ -7,3 +7,5 @@ Neste repositório você vai encontrar a pasta de **exercícios** separados por 
 Além disso, você pode encontrar os slides que foram apresentados com o cronograma.
 
 Qualquer dúvida, sugestão e melhoria, abra um PR!
+
+Acesse: evelisee.github.io/gama-academy
