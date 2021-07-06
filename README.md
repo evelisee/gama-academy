@@ -8,4 +8,4 @@ Além disso, você pode encontrar os slides que foram apresentados com o cronogr
 
 Qualquer dúvida, sugestão e melhoria, abra um PR!
 
-Acesse: evelisee.github.io/gama-academy
+Acesse: [evelisee.github.io/gama-academy](evelisee.github.io/gama-academy)
